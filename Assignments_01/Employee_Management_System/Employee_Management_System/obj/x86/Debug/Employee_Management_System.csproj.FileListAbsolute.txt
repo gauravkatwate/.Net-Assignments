@@ -1,0 +1,13 @@
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Add_New_Employee.resources
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_Login.resources
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.frm_View_All_Employee.resources
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.Properties.Resources.resources
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.csproj.GenerateResource.Cache
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.config
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.pdb
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\bin\Debug\alphablendtextbox.dll
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.exe
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\obj\x86\Debug\Employee_Management_System.pdb
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.CodeAnalysisLog.xml
+D:\C# Assignment Main\Assignment_01\Employee_Management_System\Employee_Management_System\bin\Debug\Employee_Management_System.exe.lastcodeanalysissucceeded
