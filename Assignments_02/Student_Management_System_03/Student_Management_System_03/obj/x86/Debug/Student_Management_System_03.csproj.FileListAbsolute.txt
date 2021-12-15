@@ -1,0 +1,13 @@
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.exe
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.pdb
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\bin\Debug\alphablendtextbox.dll
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Add_New_Student.resources
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Login.resources
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.Properties.Resources.resources
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.csproj.GenerateResource.Cache
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.exe
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.pdb
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_Search_Student.resources
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.frm_View_All_Student.resources
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\bin\Debug\Student_Management_System_03.exe.config
+D:\C# Assignment Main\Assignment_02\Student_Management_System_03\Student_Management_System_03\obj\x86\Debug\Student_Management_System_03.csprojResolveAssemblyReference.cache
